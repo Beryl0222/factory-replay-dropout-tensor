@@ -1,0 +1,10 @@
+{
+  "queries": 1536,
+  "keys": 2048,
+  "query_heads": 8,
+  "key_heads": 2,
+  "head_width": 32,
+  "max_workspace_bytes": 3145728,
+  "max_receipt_bytes": 524288,
+  "seed": 260
+}
